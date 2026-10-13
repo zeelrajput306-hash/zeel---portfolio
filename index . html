@@ -183,6 +183,8 @@ footer { padding-block: 32px; font-family: var(--font-mono); font-size: 12px; co
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 </style>
+<script src="https://cdn.botpress.cloud/webchat/v5.0/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/10/13/10/20261013102012-AYCCYCJL.js" defer></script>
 
 <header class="bar">
   <div class="wrap">
